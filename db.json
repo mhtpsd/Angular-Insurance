@@ -1,0 +1,14 @@
+{
+  "insurance": [
+    {
+      "id": "abcf",
+      "policyNumber": "123",
+      "policyHolder": "mohit",
+      "type": "Car Insurance",
+      "premiumAmount": 1234567890,
+      "policyStartDate": "2024-08-01",
+      "policyEndDate": "2030-09-01",
+      "benefits": "unlimited"
+    }
+  ]
+}
